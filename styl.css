@@ -9,4 +9,8 @@ body{
   border:1px solid red;
   box-shadow:2px 2px 2px dimgray;
 }
+ul::first-letter{
+  font-size:200%;
+  color:dimgray;
+}
   
